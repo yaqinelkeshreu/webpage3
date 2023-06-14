@@ -1,0 +1,1 @@
+For my website you will have to put in your name, and each time you click the letter key (a-z) random colered rectangles will fill up the page. When you use the mouse click random colored circles will appear. 
