@@ -1,0 +1,13 @@
+
+body{
+    font-family: 'Exo', sans-serif;
+}
+
+  .bottomleft {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 15px;
+}
+
+
